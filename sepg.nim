@@ -1,3 +1,10 @@
+/*
+ * @Author: winger
+ * @Date: 2022-09-27 13:33:27
+ 
+ * @Description: 简单可用, 后面再扩展. 这个文件是基础模块.
+ */
+
 # Social engineering password generator
 # https://i.loli.net/2019/08/15/XE5KzcLRpiOaHms.png
 # 参考这个
